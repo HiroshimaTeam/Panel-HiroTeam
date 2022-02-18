@@ -1,0 +1,15 @@
+---
+name: Panel
+version: 1.0.0
+main: Nyrok\Panel\Main
+api: [4.0.0]
+author: Nyrok
+src-namespace-prefix: Nyrok\Panel
+commands:
+  panel:
+    description: Une interface pour gérer les paramètres du serveur
+    permission: panel
+permissions:
+  panel:
+    default: op
+...
