@@ -18,16 +18,6 @@
 
 - [x] **[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**
 ---
-### **LordHosting Partner**
-
-- [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code __**HIROTEAM**__ 10% FREE </br>
--> Website : https://clients.lordhosting.fr </br>
--> Discord : https://discord.gg/rRss47k </br>
-
-- [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction __**HIROTEAM**__ 10% DE REDUCTION </br>
--> Site Web: https://clients.lordhosting.fr </br>
--> Discord : https://discord.gg/rRss47k </br>
----
 ### Contacts HiroTeam
 
 - **Discord Member:** WillyDuGang#6947 RomainSav#9558
@@ -50,3 +40,14 @@ HiroshimaTeam/Panel-HiroTeam is licensed under the
   - [Github](https://github.com/Nyrok) ![GitHub followers](https://img.shields.io/github/followers/Nyrok?style=social)
   - [Twitter](https://twitter.com/@Nyrok10) ![Twitter Follow](https://img.shields.io/twitter/follow/Nyrok10?style=social)
   - [AzurMC](https://discord.gg/266xmbBbH7) ![AzurMC](https://img.shields.io/badge/-AzurMC-9cf)
+
+---
+### **LordHosting Partner**
+
+- [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code __**HIROTEAM**__ 10% FREE </br>
+-> Website : https://clients.lordhosting.fr </br>
+-> Discord : https://discord.gg/rRss47k </br>
+
+- [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction __**HIROTEAM**__ 10% DE REDUCTION </br>
+-> Site Web: https://clients.lordhosting.fr </br>
+-> Discord : https://discord.gg/rRss47k </br>
