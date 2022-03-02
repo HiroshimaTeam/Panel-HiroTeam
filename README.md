@@ -1,8 +1,7 @@
 # Panel-HiroTeam
+### About
 ![Panel](https://user-images.githubusercontent.com/76572999/156389675-7ff1c0db-576a-4f75-9fef-107d413b97ef.png)
 
----
-### About
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin that allows you to manage server.properties file. It's useful for beginners. <br/><br/>
 [FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin qui vous permet de gérer le fichier server.properties de votre serveur. Il est utile pour les débutants.
 
